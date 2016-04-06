@@ -96,8 +96,8 @@
         {
             "Name": "aria2",
             "Description": "A multi-protocol & multi-source, cross platform download utility",
-            "Location": "http://downloads.sourceforge.net/project/aria2/stable/aria2-1.19.0/aria2-1.19.0-win-64bit-build1.zip",
-            "Path": "aria2-1.19.0-win-64bit-build1"
+            "Location": "https://github.com/tatsuhiro-t/aria2/releases/download/release-1.21.0/aria2-1.21.0-win-64bit-build1.zip",
+            "Path": "aria2-1.21.0-win-64bit-build1"
         },
         {
             "Name": "nuget",
