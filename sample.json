@@ -109,7 +109,7 @@
             "Name": "ckan",
             "Description": "The Comprehensive Kerbal Archive Network",
             "FileType": "Binary",
-            "Location": "https://github.com/KSP-CKAN/CKAN/releases/download/v1.16.0/ckan.exe"
+            "Location": "https://github.com/KSP-CKAN/CKAN/releases/download/v1.16.1/ckan.exe"
         },
         {
             "Name": "packer",
