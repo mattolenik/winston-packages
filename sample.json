@@ -121,6 +121,11 @@
             "Location": "https://bintray.com/artifact/download/vszakats/generic/curl-7.47.1-win64-mingw.7z",
             "FileType": "Archive",
             "Path": "curl-7.47.1-win64-mingw/bin"
+        },
+        {
+            "Name": "AudioSwitcher",
+            "Location": "https://github.com/xenolightning/AudioSwitcher_v1/releases/download/1.7.0.117/AudioSwitcher.zip",
+            "FileType": "Archive"
         }
     ]
 }
