@@ -126,6 +126,13 @@
             "Name": "AudioSwitcher",
             "Location": "https://github.com/xenolightning/AudioSwitcher_v1/releases/download/1.7.0.117/AudioSwitcher.zip",
             "FileType": "Archive"
+        },
+        {
+            "Name": "AzCopy",
+            "Location": "http://aka.ms/downloadazcopy",
+            "Description": "AzCopy is a Windows command-line utility designed for copying data to and from Microsoft Azure Blob, File, and Table storage using simple commands with optimal performance.",
+            "FileType": "Archive",
+            "Path": "Microsoft SDKs/Azure/AzCopy"
         }
     ]
 }
