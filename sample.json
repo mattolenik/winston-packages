@@ -112,6 +112,12 @@
             "Location": "https://github.com/KSP-CKAN/CKAN/releases/download/v1.16.1/ckan.exe"
         },
         {
+            "Name": "netkan",
+            "Description": "CKAN netkan tool",
+            "FileType": "Binary",
+            "Location": "https://ckan-travis.s3.amazonaws.com/netkan.exe"
+        },
+        {
             "Name": "packer",
             "Location": "https://releases.hashicorp.com/packer/0.10.0/packer_0.10.0_windows_amd64.zip",
             "FileType": "Archive"
