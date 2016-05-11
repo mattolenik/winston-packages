@@ -77,16 +77,16 @@
         {
             "Name": "gow",
             "Description": "The lightweight alternative to Cygwin. Unix command line utilities for Windows.",
-            "Location": "https://github.com/bmatzelle/gow/releases/download/v0.8.0/Gow-0.8.0.exe",
+            "Location": "github://bmatzelle/gow?name=*.exe",
             "Path": "bin",
-            "FileType": "Archive"
+            "Type": "Archive"
         },
         {
             "Name": "upx",
             "Description": "UPX is a free, portable, extendable, high-performance executable packer for several executable formats.",
             "Location": "http://upx.sourceforge.net/download/upx391w.zip",
             "Path": "upx391w",
-            "FileType": "Archive"
+            "Type": "Archive"
         },
         {
             "Name": "lessmsi",
@@ -102,7 +102,7 @@
         {
             "Name": "nuget",
             "Description": "NuGet is the package manager for the Microsoft development platform including .NET. The NuGet client tools provide the ability to produce and consume packages.",
-            "FileType": "Binary",
+            "Type": "Binary",
             "Location": "https://dist.nuget.org/win-x86-commandline/latest/nuget.exe"
         },
         {
@@ -113,29 +113,29 @@
         {
             "Name": "netkan",
             "Description": "CKAN netkan tool",
-            "FileType": "Binary",
+            "Type": "Binary",
             "Location": "https://ckan-travis.s3.amazonaws.com/netkan.exe"
         },
         {
             "Name": "packer",
             "Location": "https://releases.hashicorp.com/packer/0.10.0/packer_0.10.0_windows_amd64.zip",
-            "FileType": "Archive"
+            "Type": "Archive"
         },
         {
             "Name": "curl",
             "Location": "https://bintray.com/artifact/download/vszakats/generic/curl-7.47.1-win64-mingw.7z",
-            "FileType": "Archive",
+            "Type": "Archive",
             "Path": "curl-7.47.1-win64-mingw/bin"
         },
         {
             "Name": "AudioSwitcher",
-            "Location": "github://xenolightning/AudioSwitcher_v1/?name=AudioSwitcher.zip"
+            "Location": "github://xenolightning/AudioSwitcher_v1/?name=*.zip"
         },
         {
             "Name": "AzCopy",
             "Location": "http://aka.ms/downloadazcopy",
             "Description": "AzCopy is a Windows command-line utility designed for copying data to and from Microsoft Azure Blob, File, and Table storage using simple commands with optimal performance.",
-            "FileType": "Archive",
+            "Type": "Archive",
             "Path": "Microsoft SDKs/Azure/AzCopy"
         }
     ]
