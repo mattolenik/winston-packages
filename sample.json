@@ -129,8 +129,7 @@
         },
         {
             "Name": "AudioSwitcher",
-            "Location": "https://github.com/xenolightning/AudioSwitcher_v1/releases/download/1.7.0.117/AudioSwitcher.zip",
-            "FileType": "Archive"
+            "Location": "github://xenolightning/AudioSwitcher_v1/?name=AudioSwitcher.zip"
         },
         {
             "Name": "AzCopy",
