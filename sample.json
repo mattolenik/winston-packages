@@ -69,7 +69,7 @@
         {
             "Name": "clink",
             "Description": "Powerful Bash-style command line editing for cmd.exe",
-            "Location": "github://mridgers/clink/?name=clink_*.zip",
+            "Location": "github://mridgers/clink/?name=clink_*.zip&name=!*pdb.zip",
             "Path": "clink_*"
         },
         {
