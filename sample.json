@@ -69,8 +69,8 @@
         {
             "Name": "clink",
             "Description": "Powerful Bash-style command line editing for cmd.exe",
-            "Location": "https://github.com/mridgers/clink/releases/download/0.4.4/clink_0.4.4.zip",
-            "Path": "clink_0.4.4"
+            "Location": "github://mridgers/clink/?name=clink_*.zip",
+            "Path": "clink_*"
         },
         {
             "Name": "gow",
@@ -89,13 +89,13 @@
         {
             "Name": "lessmsi",
             "Description": "A tool to view and extract the contents of an Windows Installer (.msi) file",
-            "Location": "https://github.com/activescott/lessmsi/releases/download/v1.3/lessmsi-v1.3.zip"
+            "Location": "github://activescott/lessms/?name=lessmsi-*.zip"
         },
         {
             "Name": "aria2",
             "Description": "A multi-protocol & multi-source, cross platform download utility",
-            "Location": "https://github.com/tatsuhiro-t/aria2/releases/download/release-1.21.0/aria2-1.21.0-win-64bit-build1.zip",
-            "Path": "aria2-1.21.0-win-64bit-build1"
+            "Location": "github://tatsuhiro-t/aria2/?name=aria2-*-win-64bit-build1.zip",
+            "Path": "aria2-*-win-64bit-build1"
         },
         {
             "Name": "nuget",
