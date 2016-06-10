@@ -135,6 +135,11 @@
             "Description": "AzCopy is a Windows command-line utility designed for copying data to and from Microsoft Azure Blob, File, and Table storage using simple commands with optimal performance.",
             "Type": "Archive",
             "Path": "Microsoft SDKs/Azure/AzCopy"
+        },
+        {
+            "Name": "jq",
+            "Description": "Command-line JSON processor",
+            "Location": "github://stedolan/jq?name=jq-win64.exe"
         }
     ]
 }
