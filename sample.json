@@ -139,7 +139,8 @@
         {
             "Name": "jq",
             "Description": "Command-line JSON processor",
-            "Location": "github://stedolan/jq?name=jq-win64.exe"
+            "Location": "github://stedolan/jq?name=jq-win64.exe",
+            "Type": "Binary"
         }
     ]
 }
