@@ -146,6 +146,11 @@
             "Name": "jad",
             "Description": "JAD Java Decompiler",
             "Location": "http://varaneckas.com/jad/jad158g.win.zip"
+        },
+        {
+            "Name": "ProcessExplorer",
+            "Description": "Sysinternals Process Explorer",
+            "Location": "https://download.sysinternals.com/files/ProcessExplorer.zip"
         }
     ]
 }
