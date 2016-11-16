@@ -151,6 +151,13 @@
             "Name": "ProcessExplorer",
             "Description": "Sysinternals Process Explorer",
             "Location": "https://download.sysinternals.com/files/ProcessExplorer.zip"
+        },
+        {
+            "Name": "nssm",
+            "Location": "https://nssm.cc/release/nssm-2.24.zip",
+            "Description": "Non-Sucking Service Manager",
+            "Type": "Archive",
+            "Path": "win64"
         }
     ]
 }
