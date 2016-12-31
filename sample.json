@@ -25,8 +25,8 @@
             "Location": "https://github.com/bliker/cmder/releases/download/v1.2/cmder_mini.zip"
         },
         {
-            "Name": "plink",
-            "Location": "http://the.earth.li/~sgtatham/putty/latest/x86/plink.exe"
+            "Name": "putty",
+            "Location": "https://the.earth.li/~sgtatham/putty/latest/x86/putty.zip"
         },
         {
             "Name": "7zip",
