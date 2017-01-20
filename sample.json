@@ -18,11 +18,11 @@
         },
         {
             "Name": "cmder",
-            "Location": "https://github.com/bliker/cmder/releases/download/v1.2/cmder.zip"
+            "Location": "github://cmderdev/cmder?name=cmder.zip"
         },
         {
             "Name": "cmder-mini",
-            "Location": "https://github.com/bliker/cmder/releases/download/v1.2/cmder_mini.zip"
+            "Location": "github://cmderdev/cmder?name=cmder_mini.zip"
         },
         {
             "Name": "putty",
