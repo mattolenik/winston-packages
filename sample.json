@@ -158,6 +158,13 @@
             "Description": "Non-Sucking Service Manager",
             "Type": "Archive",
             "Path": "nssm-2.24/win64"
+        },
+        {
+            "Name": "openssh",
+            "Location": "github://PowerShell/Win32-OpenSSH?name=OpenSSH-Win64.zip",
+            "Description": "Win32 port of OpenSSH",
+            "Type": "Archive",
+            "Path": "OpenSSH-Win64"
         }
     ]
 }
