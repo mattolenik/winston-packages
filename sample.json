@@ -168,7 +168,7 @@
         },
         {
             "Name": "uniextract2",
-            "Location": "github://Bioruebe/UniExtract2?name=UniExtract*.zip",
+            "Location": "github://Bioruebe/UniExtract2?name=UniExtract*",
             "Description": "Universal Extractor 2, continuation of UniExtract",
             "Path": "UniExtract"
         }
