@@ -165,6 +165,12 @@
             "Description": "Win32 port of OpenSSH",
             "Type": "Archive",
             "Path": "OpenSSH-Win64"
+        },
+        {
+            "Name": "uniextract2",
+            "Location": "github://Bioruebe/UniExtract2",
+            "Path": "UniExtract"
         }
+            
     ]
 }
