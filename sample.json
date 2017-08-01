@@ -171,6 +171,11 @@
             "Location": "github://Bioruebe/UniExtract2?name=UniExtractBeta4.zip",
             "Description": "Universal Extractor 2, continuation of UniExtract",
             "Path": "UniExtract"
+        },
+        {
+            "Name": "wsl-terminal",
+            "Location": "github://goreliu/wsl-terminal?name=wsl-terminal-*.7z",
+            "Path": "wsl-terminal"
         }
             
     ]
