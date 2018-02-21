@@ -176,7 +176,10 @@
             "Name": "wsl-terminal",
             "Location": "github://goreliu/wsl-terminal?name=wsl-terminal-*.7z",
             "Path": "wsl-terminal"
+        },
+        {
+            "Name": "colortool",
+            "Location": "github://Microsoft/console/?name=colortool.zip"
         }
-            
     ]
 }
