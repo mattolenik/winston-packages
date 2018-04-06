@@ -106,7 +106,7 @@
         {
             "Name": "ckan",
             "Description": "The Comprehensive Kerbal Archive Network",
-            "Location": "github://KSP-CKAN/CKAN"
+            "Location": "github://KSP-CKAN/CKAN?name=ckan.exe"
         },
         {
             "Name": "netkan",
